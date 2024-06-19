@@ -3,7 +3,7 @@
         <button class="btn-none" onclick="side_close()">&times;</button>
         <div class="bar-container">
             <ul>
-                <li><a href="dashboard.php" class="bar-item"><svg xmlns="http://www.w3.org/2000/svg" width="18"
+                <li><a href="index.php" class="bar-item"><svg xmlns="http://www.w3.org/2000/svg" width="18"
                             height="18" fill="currentColor" class="bi bi-grid-1x2-fill" viewBox="0 0 16 16">
                             <path
                                 d="M0 1a1 1 0 0 1 1-1h5a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V1zm9 0a1 1 0 0 1 1-1h5a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1h-5a1 1 0 0 1-1-1V1zm0 9a1 1 0 0 1 1-1h5a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1h-5a1 1 0 0 1-1-1v-5z" />
@@ -71,7 +71,7 @@
             <div class="sidebar-sm side-fix" id="sidebar-sm">
                 <button id="openNav" class="btn-black" onclick="side_open()"><i class="fa-solid fa-bars"></i></button>
                 <ul>
-                    <li><a href="dashboard.php" class="bar-item"><svg xmlns="http://www.w3.org/2000/svg" width="18"
+                    <li><a href="index.php" class="bar-item"><svg xmlns="http://www.w3.org/2000/svg" width="18"
                                 height="18" fill="currentColor" class="bi bi-grid-1x2-fill" viewBox="0 0 16 16">
                                 <path
                                     d="M0 1a1 1 0 0 1 1-1h5a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V1zm9 0a1 1 0 0 1 1-1h5a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1h-5a1 1 0 0 1-1-1V1zm0 9a1 1 0 0 1 1-1h5a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1h-5a1 1 0 0 1-1-1v-5z" />
